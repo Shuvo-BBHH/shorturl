@@ -10,7 +10,7 @@ printf "\e[0m\e[1;93m   \___ \|  _ \ / _ \|  __| __| \e[0m\e[1;92m| |  | |  _  /
 printf "\e[0m\e[1;93m   ____) | | | | (_) | |  | |_  \e[0m\e[1;92m| |__| | | \ \| |____ \e[0m\n"
 printf "\e[0m\e[1;93m  |_____/|_| |_|\___/|_|   \__| \e[0m\e[1;92m \____/|_|  \_\______|\e[0m\n"
 printf "\e[0m\n"
-printf "\e[0m\e[1;93m        Created By Mahdi Hasan Shuvo \e[0m\e[1;91m( \e[0m\e[1;92mMahdi hasan \e[0m\e[1;91m)\e[0m\n"
+printf "\e[0m\e[1;93m        Created By Mahdi Hasan Shuvo \e[0m\e[1;91m(\e[0m\e[1;92mMahdi hasan \e[0m\e[1;91m)\e[0m\n"
 printf "\e[0m\n"
 printf "\e[0m\e[1;93m    Github :\e[0m\e[1;96m Shuvo-BBHH \e[0m\e[1;97m| \e[0m\e[1;93mInstagram :\e[0m\e[1;96m @mahdi\e[0m\n
 }
